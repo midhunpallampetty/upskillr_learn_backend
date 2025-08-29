@@ -1,0 +1,1 @@
+create a controller for catch all errors in the application
